@@ -1,6 +1,6 @@
 # 🌍 Wanderlust Explorer
 
-🔗 **Live Demo**: [https://yourusername.github.io/wanderlust-explorer](https://bindhusree56.github.io/task1-apex/)
+🔗 **Live Demo**: [WANDERLUST EXPLORER](https://bindhusree56.github.io/task1-apex/)
 
 
 **Wanderlust Explorer** is a beautifully designed travel inspiration webpage that showcases six stunning travel destinations: India, Sri Lanka, USA, Vietnam, Japan, and Mexico. Each destination card includes an image, a personal reason to visit, and a fun fact!
